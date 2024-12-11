@@ -1,14 +1,7 @@
-# MIMO-STBC-Equalization-MATLAB
-This project is based on analysing the BER in Almouti STBC Coding Technique and also comparing it's performance with ZF Equalization technique. I have implemented this from a research paper.
-
-
-Here's a simplified version of the README file with regular text and images displayed properly:
-
----
 
 # MIMO-STBC-Equalization-MATLAB
 
-This project focuses on enhancing data transmission rates in MIMO (Multiple-Input Multiple-Output) wireless systems using Alamouti Space-Time Block Coding (STBC) and equalization techniques. The methodology employs BPSK modulation to analyze the performance of various equalizers, including Zero Forcing (ZF), through MATLAB simulations.
+This project focuses on enhancing data transmission rates in MIMO (Multiple-Input Multiple-Output) wireless systems using Alamouti Space-Time Block Coding (STBC) and equalization techniques. The methodology employs BPSK modulation to analyze the performance of various equalizers, including Zero Forcing (ZF), through MATLAB simulations.This is implemented from a research paper.
 
 The study generates random binary data packets, applies digital modulation, and evaluates the system's Bit Error Rate (BER) to assess performance. By leveraging spatial multiplexing and diversity, the research aims to improve data flow and reliability in wireless communication, addressing challenges like fading and interference.
 
